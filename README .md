@@ -1,8 +1,8 @@
 
 # Open-Source Audit: LibreOffice on  Ubuntu 22.04 LTS
 
-**Student Name:** Naman Mehta</br>
-**Roll Number:** 24BAI10885  </br>
+**Student Name:** Ayush Pateriya</br>
+**Roll Number:** 24BAI10067  </br>
 **Course:** Open-Source Software  </br>
 **Date:** March 2026
 
@@ -17,7 +17,7 @@ LibreOffice — A free and open-source office suite, developed by The Document F
 ## File Structure
 GitHub Repository Structure
 ```bash
-oss-audit-24BAI10885/
+oss-audit-24BAI10067/
 ├── README.md
 ├── oss-audit-24BAI10885
 ├── scripts/
